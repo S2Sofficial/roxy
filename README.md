@@ -1,2 +1,0 @@
-# roxy
-Testing purposes only
